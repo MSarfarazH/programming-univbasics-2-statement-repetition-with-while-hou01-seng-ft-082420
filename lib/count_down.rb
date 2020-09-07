@@ -6,3 +6,10 @@ while count = magic_exit_number do
   count = count - 1 
 end
 end
+
+count = 10
+while count >= 1 do
+  puts count
+  count -= 1
+end
+puts "Happy New Year!"
